@@ -1,0 +1,18 @@
+.conteiner {
+    width: 900px;
+    margin: 0 auto;
+}
+.top1 {
+    background-color: darkgoldenrod;
+    text-align: center;
+    width: 450px;
+    height: 140px;
+    float: left;
+}
+.top2 {
+    background-color: coral;
+    text-align: center;
+    width: 450px;
+    height: 140px;
+    float: right;
+}
